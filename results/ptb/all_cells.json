@@ -1,0 +1,617 @@
+[
+  {
+    "cell": {
+      "combination_methods": [
+        "add",
+        "add",
+        "add",
+        "elem_mult",
+        "add",
+        "add",
+        "elem_mult",
+        "add",
+        "elem_mult",
+        "elem_mult",
+        "add",
+        "add",
+        "elem_mult",
+        "add",
+        "elem_mult"
+      ],
+      "activation_functions": [
+        "sigmoid",
+        "identity",
+        "sigmoid",
+        "tanh",
+        "relu",
+        "sigmoid",
+        "relu",
+        "tanh",
+        "relu",
+        "tanh",
+        "sigmoid",
+        "identity",
+        "identity",
+        "relu",
+        "tanh"
+      ],
+      "cell_ct_index": 5,
+      "cell_ct_new_index": 5
+    },
+    "reward": -764.4819574869791
+  },
+  {
+    "cell": {
+      "combination_methods": [
+        "elem_mult",
+        "elem_mult",
+        "elem_mult",
+        "elem_mult",
+        "elem_mult",
+        "add",
+        "add",
+        "elem_mult",
+        "elem_mult",
+        "elem_mult",
+        "add",
+        "add",
+        "add",
+        "elem_mult",
+        "elem_mult"
+      ],
+      "activation_functions": [
+        "relu",
+        "tanh",
+        "relu",
+        "identity",
+        "identity",
+        "tanh",
+        "relu",
+        "tanh",
+        "identity",
+        "identity",
+        "tanh",
+        "relu",
+        "relu",
+        "sigmoid",
+        "identity"
+      ],
+      "cell_ct_index": 3,
+      "cell_ct_new_index": 7
+    },
+    "reward": -1000.0
+  },
+  {
+    "cell": {
+      "combination_methods": [
+        "elem_mult",
+        "elem_mult",
+        "add",
+        "elem_mult",
+        "add",
+        "elem_mult",
+        "add",
+        "add",
+        "add",
+        "elem_mult",
+        "add",
+        "elem_mult",
+        "elem_mult",
+        "add",
+        "elem_mult"
+      ],
+      "activation_functions": [
+        "tanh",
+        "relu",
+        "sigmoid",
+        "tanh",
+        "relu",
+        "tanh",
+        "sigmoid",
+        "relu",
+        "identity",
+        "relu",
+        "relu",
+        "identity",
+        "relu",
+        "identity",
+        "identity"
+      ],
+      "cell_ct_index": 2,
+      "cell_ct_new_index": 0
+    },
+    "reward": -1000.0
+  },
+  {
+    "cell": {
+      "combination_methods": [
+        "add",
+        "elem_mult",
+        "add",
+        "add",
+        "elem_mult",
+        "elem_mult",
+        "elem_mult",
+        "elem_mult",
+        "add",
+        "elem_mult",
+        "elem_mult",
+        "elem_mult",
+        "elem_mult",
+        "add",
+        "add"
+      ],
+      "activation_functions": [
+        "relu",
+        "identity",
+        "sigmoid",
+        "relu",
+        "relu",
+        "relu",
+        "tanh",
+        "tanh",
+        "relu",
+        "tanh",
+        "identity",
+        "relu",
+        "sigmoid",
+        "sigmoid",
+        "sigmoid"
+      ],
+      "cell_ct_index": 2,
+      "cell_ct_new_index": 1
+    },
+    "reward": -3742.8352264145383
+  },
+  {
+    "cell": {
+      "combination_methods": [
+        "add",
+        "elem_mult",
+        "add",
+        "add",
+        "elem_mult",
+        "add",
+        "add",
+        "elem_mult",
+        "add",
+        "add",
+        "add",
+        "elem_mult",
+        "add",
+        "elem_mult",
+        "elem_mult"
+      ],
+      "activation_functions": [
+        "relu",
+        "identity",
+        "identity",
+        "sigmoid",
+        "sigmoid",
+        "identity",
+        "identity",
+        "identity",
+        "relu",
+        "identity",
+        "identity",
+        "sigmoid",
+        "relu",
+        "relu",
+        "tanh"
+      ],
+      "cell_ct_index": 6,
+      "cell_ct_new_index": 0
+    },
+    "reward": -694.0139875484655
+  },
+  {
+    "cell": {
+      "combination_methods": [
+        "elem_mult",
+        "elem_mult",
+        "add",
+        "elem_mult",
+        "add",
+        "add",
+        "add",
+        "elem_mult",
+        "add",
+        "add",
+        "add",
+        "elem_mult",
+        "elem_mult",
+        "elem_mult",
+        "elem_mult"
+      ],
+      "activation_functions": [
+        "sigmoid",
+        "tanh",
+        "identity",
+        "relu",
+        "relu",
+        "relu",
+        "identity",
+        "identity",
+        "sigmoid",
+        "sigmoid",
+        "identity",
+        "relu",
+        "tanh",
+        "relu",
+        "relu"
+      ],
+      "cell_ct_index": 1,
+      "cell_ct_new_index": 3
+    },
+    "reward": -1000.0
+  },
+  {
+    "cell": {
+      "combination_methods": [
+        "elem_mult",
+        "add",
+        "add",
+        "add",
+        "add",
+        "elem_mult",
+        "add",
+        "elem_mult",
+        "add",
+        "add",
+        "add",
+        "elem_mult",
+        "add",
+        "elem_mult",
+        "add"
+      ],
+      "activation_functions": [
+        "relu",
+        "identity",
+        "sigmoid",
+        "tanh",
+        "tanh",
+        "tanh",
+        "sigmoid",
+        "sigmoid",
+        "relu",
+        "tanh",
+        "identity",
+        "sigmoid",
+        "relu",
+        "relu",
+        "relu"
+      ],
+      "cell_ct_index": 0,
+      "cell_ct_new_index": 7
+    },
+    "reward": -1000.0
+  },
+  {
+    "cell": {
+      "combination_methods": [
+        "add",
+        "add",
+        "elem_mult",
+        "add",
+        "add",
+        "elem_mult",
+        "elem_mult",
+        "add",
+        "add",
+        "add",
+        "add",
+        "elem_mult",
+        "elem_mult",
+        "add",
+        "elem_mult"
+      ],
+      "activation_functions": [
+        "identity",
+        "tanh",
+        "relu",
+        "sigmoid",
+        "tanh",
+        "tanh",
+        "tanh",
+        "identity",
+        "tanh",
+        "tanh",
+        "tanh",
+        "sigmoid",
+        "identity",
+        "tanh",
+        "tanh"
+      ],
+      "cell_ct_index": 4,
+      "cell_ct_new_index": 1
+    },
+    "reward": -691.5279963920524
+  },
+  {
+    "cell": {
+      "combination_methods": [
+        "elem_mult",
+        "elem_mult",
+        "elem_mult",
+        "elem_mult",
+        "add",
+        "add",
+        "elem_mult",
+        "add",
+        "elem_mult",
+        "add",
+        "elem_mult",
+        "add",
+        "elem_mult",
+        "elem_mult",
+        "add"
+      ],
+      "activation_functions": [
+        "identity",
+        "tanh",
+        "identity",
+        "identity",
+        "identity",
+        "relu",
+        "sigmoid",
+        "relu",
+        "identity",
+        "identity",
+        "relu",
+        "sigmoid",
+        "relu",
+        "sigmoid",
+        "tanh"
+      ],
+      "cell_ct_index": 1,
+      "cell_ct_new_index": 2
+    },
+    "reward": -712.7605414625721
+  },
+  {
+    "cell": {
+      "combination_methods": [
+        "elem_mult",
+        "elem_mult",
+        "elem_mult",
+        "add",
+        "elem_mult",
+        "add",
+        "add",
+        "add",
+        "add",
+        "elem_mult",
+        "add",
+        "add",
+        "add",
+        "elem_mult",
+        "elem_mult"
+      ],
+      "activation_functions": [
+        "tanh",
+        "identity",
+        "tanh",
+        "sigmoid",
+        "tanh",
+        "relu",
+        "tanh",
+        "identity",
+        "identity",
+        "sigmoid",
+        "identity",
+        "tanh",
+        "sigmoid",
+        "tanh",
+        "sigmoid"
+      ],
+      "cell_ct_index": 2,
+      "cell_ct_new_index": 3
+    },
+    "reward": -694.7057232125777
+  },
+  {
+    "cell": {
+      "combination_methods": [
+        "add",
+        "add",
+        "add",
+        "add",
+        "add",
+        "add",
+        "add",
+        "elem_mult",
+        "add",
+        "elem_mult",
+        "elem_mult",
+        "add",
+        "add",
+        "add",
+        "elem_mult"
+      ],
+      "activation_functions": [
+        "identity",
+        "relu",
+        "sigmoid",
+        "relu",
+        "sigmoid",
+        "identity",
+        "identity",
+        "relu",
+        "sigmoid",
+        "sigmoid",
+        "tanh",
+        "tanh",
+        "relu",
+        "relu",
+        "sigmoid"
+      ],
+      "cell_ct_index": 7,
+      "cell_ct_new_index": 7
+    },
+    "reward": -754.6022798741467
+  },
+  {
+    "cell": {
+      "combination_methods": [
+        "elem_mult",
+        "elem_mult",
+        "elem_mult",
+        "elem_mult",
+        "elem_mult",
+        "add",
+        "elem_mult",
+        "add",
+        "elem_mult",
+        "elem_mult",
+        "add",
+        "add",
+        "add",
+        "elem_mult",
+        "add"
+      ],
+      "activation_functions": [
+        "sigmoid",
+        "relu",
+        "sigmoid",
+        "identity",
+        "identity",
+        "sigmoid",
+        "tanh",
+        "sigmoid",
+        "relu",
+        "identity",
+        "sigmoid",
+        "relu",
+        "tanh",
+        "sigmoid",
+        "sigmoid"
+      ],
+      "cell_ct_index": 1,
+      "cell_ct_new_index": 5
+    },
+    "reward": -702.9721189638869
+  },
+  {
+    "cell": {
+      "combination_methods": [
+        "add",
+        "elem_mult",
+        "elem_mult",
+        "add",
+        "add",
+        "add",
+        "elem_mult",
+        "add",
+        "elem_mult",
+        "elem_mult",
+        "elem_mult",
+        "add",
+        "elem_mult",
+        "elem_mult",
+        "add"
+      ],
+      "activation_functions": [
+        "identity",
+        "sigmoid",
+        "sigmoid",
+        "sigmoid",
+        "relu",
+        "tanh",
+        "identity",
+        "sigmoid",
+        "relu",
+        "relu",
+        "relu",
+        "relu",
+        "relu",
+        "tanh",
+        "relu"
+      ],
+      "cell_ct_index": 1,
+      "cell_ct_new_index": 1
+    },
+    "reward": -695.3093249839843
+  },
+  {
+    "cell": {
+      "combination_methods": [
+        "add",
+        "elem_mult",
+        "add",
+        "add",
+        "elem_mult",
+        "add",
+        "add",
+        "elem_mult",
+        "elem_mult",
+        "elem_mult",
+        "add",
+        "elem_mult",
+        "elem_mult",
+        "elem_mult",
+        "elem_mult"
+      ],
+      "activation_functions": [
+        "sigmoid",
+        "identity",
+        "identity",
+        "relu",
+        "sigmoid",
+        "sigmoid",
+        "identity",
+        "relu",
+        "identity",
+        "relu",
+        "identity",
+        "identity",
+        "relu",
+        "tanh",
+        "sigmoid"
+      ],
+      "cell_ct_index": 1,
+      "cell_ct_new_index": 6
+    },
+    "reward": -717.9342816297228
+  },
+  {
+    "cell": {
+      "combination_methods": [
+        "elem_mult",
+        "elem_mult",
+        "elem_mult",
+        "elem_mult",
+        "elem_mult",
+        "elem_mult",
+        "add",
+        "add",
+        "elem_mult",
+        "elem_mult",
+        "add",
+        "add",
+        "add",
+        "elem_mult",
+        "add"
+      ],
+      "activation_functions": [
+        "relu",
+        "identity",
+        "tanh",
+        "tanh",
+        "relu",
+        "relu",
+        "identity",
+        "tanh",
+        "tanh",
+        "identity",
+        "relu",
+        "sigmoid",
+        "relu",
+        "tanh",
+        "tanh"
+      ],
+      "cell_ct_index": 3,
+      "cell_ct_new_index": 6
+    },
+    "reward": -702.0082331013466
+  }
+]
