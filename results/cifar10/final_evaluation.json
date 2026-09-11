@@ -1,9 +1,0 @@
-{
-  "test_accuracy": 0.1234,
-  "test_error": 0.8766,
-  "test_error_pct": 87.66000000000001,
-  "num_params": 812586,
-  "num_params_M": 0.812586,
-  "inference_ms": 0.7566470885649323,
-  "paper_result_pct": 3.65
-}
